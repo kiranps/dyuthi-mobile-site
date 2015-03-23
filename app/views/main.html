@@ -1,0 +1,8 @@
+<div id="tile-wrapper">
+  <ul class="dyuthi" style="background-color:{{ colortiltle }};">
+    <div align="center"><img style="padding-top:27px;" ng-src="../images/dyuthi.png"></div>
+  </ul>
+  <ul ng-repeat="row in category">
+    <li ng-click="go('/{{ item.cat }}')" ng-repeat="item in row" style="background-color:{{ item.color }};">{{ item.cat }}</li>
+  </ul>
+</div>

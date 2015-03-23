@@ -1,0 +1,896 @@
+[
+  { "id": "11",
+    "event_name": "DEATHARCH",
+    "category": "Architecture",
+    "color": "#F44336",
+    "image": "../images/icons/arch/death-arch.png",
+    "introduction": "Have your speed put to the test. Stimulate your creative senses and get ready to be pushed beyond your limits. Come join the race and see who enters the deatharch.",
+    "round": ["Event will be conducted from 10:30 AM to 11:30 AM. various challenges will be faced by all the teams, by the end of each challege a clue will be reveiled to the team on completion of the task, aim is to solve the Challege provided for proceeding to the next checkpoints the before the time runs out. Judging will be based on the speed, reliability of task completion..etc"],
+    "event_rules": ["Inter College teams are allowed.","Maximum of 2 participants per team."],
+    "prizes": "5000",
+    "contact": {
+      "name": "AKASH BABU",
+      "phone": "+919745858859",
+      "email": "akashbabusudheerbabu@gmail.com"
+    }
+  },
+  {
+    "id": "12",
+    "event_name": "NIGHT OUT",
+    "category": "Architecture",
+    "color": "#E91E63",
+    "image": "../images/icons/arch/nightout.png",
+    "introduction": "WHEN THE DAY IS AT ITS LAST HOUR AND WHILE THE REST OF THE WORLD IS DEEP IN SLUMBER, AWAKEN THE ARCHITECT IN YOU AND CREATE THE WORLD YOU DESIRE.",
+    "round": ["Event will be conducted between 12am to 6am, a team of 2 members have to complete the design task within the given time using the materials provided."],
+    "event_rules": ["Inter College teams are allowed","Maximum of 2 participants per team","No Internet access during the event, can use only whatever things provided.","Participants are not permitted to leave the hall until they finish the event and the time period."],
+    "prizes": "5000",
+    "contact": {
+      "name": "RAHUL K R",
+      "phone": "+919633478901",
+      "email": "rahulkizhakkethil2012@gmail.com"
+    }
+  },
+  {
+    "id": "13",
+    "event_name": "PRODUCT DESIGN",
+    "category": "Architecture",
+    "color": "#3F51B5",
+    "image": "../images/icons/arch/prod-design.png",
+    "introduction": "Bring out the creativity in you! Design the product with the stipulated time and take home the honours",
+    "round": ["A topic for product design will be provided to all the teams. You have to complete with the needful sketches & Drawings before the time runs out."],
+    "event_rules": ["Inter College teams are allowed","Maximum of 2 participants per team","No Internet access during the event."],
+    "prizes": "4000",
+    "contact": {
+      "name": "ARUNKUMAR S",
+      "phone": "+919633256507",
+      "email": "arunkumars2245@gmail.com"
+    }
+  },
+  { 
+    "id": "81",
+    "event_name": "HE SAID SHE SAID",
+    "category": "General",
+    "color": "#2196F3",
+    "image": "../images/icons/general/he said she said.png",
+    "introduction": "This February, romance will definitely be in the air. Lets face it. Everyone wants to impress the opposite gender. It is, however, much easier said than done. You could be Einstein in Brad Pitts body or look like Megan Fox and still be, chronically single. The gift of gab is, therefore a luxury afforded to very few. This Dyuthi, we present to you HE SAID SHE SAID a brand new event open to every guy and girl out there, an opportunity to show the crowd a taste of your charm.",
+    "round": ["Preliminary round will consist of a descriptive pen and paper test aimed at evaluating the candidate's potential to be socially active.", "Surprise rounds will be followed"],
+    "event_rules": ["On any sign of vulgarity contestants will be shown the way out.","It is an individual event"],
+    "prizes": "7000",
+    "contact": {
+      "name": "JITHIN T G",
+      "phone": "+919946706411",
+      "email": "jithutg@gmail.com"
+    }
+  },
+  { 
+    "id": "82",
+    "event_name": "DUNGEONS OF DYUTHI",
+    "category": "General",
+    "color": "#4CAF50",
+    "image": "../images/icons/general/dungeons of dyuthi.png",
+    "introduction": "Locked up in the dark Dungeon you ought to put in all you got in your blood and brains to get out alive. Because ahead the door there is freedom... much beyond your imagination,.....Freedom... that you really yearn for...... So step in and let the adrenaline rush through your veins in this crazy quest for survival....HELL AWAITS YOU!!!!",
+    "round": ["A written prelims consisting of questions in aptitude,logical reasoning and critical thinking. 8 teams will be selected to the next round", "A series of physical tasks will be given to each team. Tasks challenging teams intellect, wits, physique and team spirit.Each team has to perform the given tasks within a fixed time.First 4 teams to complete the tasks will be chosen for finals. ","The teams will be locked up in a darkroom, the Dungeon, by a password protected electronic lock.The team has to crack the given questions and perform the given tasks to figure out their 4 numbered key codes.The team to crack the code and unlock the Dungeon is the ultimate winner."],
+    "event_rules": ["Inter Collage teams are allowed.","Each team may consist of either 3 or 4 members.","Internet access permissible during the event.","Participants are not permitted to leave the room once the event commences."],
+    "prizes": "10000",
+    "contact": {
+      "name": "ARUN R NAIR",
+      "phone": "+918547190286",
+      "email": "arunajay2010@gmail.com"
+    }
+  },
+  { 
+    "id": "83",
+    "event_name": "QUIZZARDS OF OZ",
+    "category": "General",
+    "color": "#8BC34A",
+    "image": "../images/icons/general/general  quiz.png",
+    "introduction": "General Quiz with topics ranging from business to sports , entertainment, science to culture and literally everythhing you can possibly think of",
+    "round": ["The Quiz will have a written preliminary round. ","Finals comprising of 6 teams. "],
+    "event_rules": ["It will be an open quiz and all are invited for this grand quizzing arena.","The Quiz will be general in nature.","Participants can expect questions on anything under the sun or over it."],
+    "prizes": "12000",
+    "contact": {
+      "name": "ASWIN MOHAN",
+      "phone": "+918714535503",
+      "email": "newton1aswin@gmail.com"
+    }
+  },
+  { 
+    "id": "84",
+    "event_name": "GLADIATOR",
+    "category": "General",
+    "color": "#FF9800",
+    "image": "../images/icons/general/gladiator.png",
+    "introduction": "The selfless warriors battled it out in the greatest arenas of the world, for blood and for life. Now, we present before you, its neomodern version, come Dyuthi, get to prove yourself among your peers and reach the pinnacle and be the perfect specimen. GLADIATOR is the Best Manager competition at Dyuthi. If you can inspire others to follow you, if you can get your colleagues to dance to your tunes,  this is the prefect platform for you. Come prove your skills and emerge as the GLADIATOR at Dyuthi '15 ",
+    "round": ["A preliminary test will be conducted to select the participants for the next round. Prelims will consist of basic aptitude and GK questions", "All rounds are designed to test various managerial skills. Further round details will be provided on the spot"],
+    "event_rules": ["Any number of participants from an institution","College Students belonging to any field of study can participate","Its a two day event"],
+    "prizes": "11000",
+    "contact": {
+      "name": "NAVEEN ATTOOR",
+      "phone": "+918089738661",
+      "email": "naveen.7024@yahoo.com"
+    }
+  },
+  { 
+    "id": "85",
+    "event_name": "PROJECT EXPO",
+    "category": "General",
+    "image": "../images/icons/general/project expo.png",
+    "color": "#FF5722",
+    "introduction": "If you are the ardent technophile from an engineering discipline, then this Project Presentation is the perfect prospect of manifesting your innovations and talents to a cognitive array of people. Because, your ideas are worth it!!!",
+    "event_rules": ["Maximum of 3 participants per team","Inter College teams are NOT allowed","Teams may be Interdisciplinary","Working Model of the Project is important","Participants are to bring all material necessary for the working of the model"],
+    "round": ["Abstract submission","Final Presentation"],
+    "prizes": "10000",
+    "contact": {
+      "name": "SREELAKSHMY J MENON",
+      "phone": "+919020993652",
+      "email": "projectexpo@dyuthi.in"
+    }
+  },
+  { 
+    "id": "86",
+    "event_name": "ROADIES V3.0",
+    "category": "General",
+    "color": "#9C27B0",
+    "image": "../images/icons/general/roadies.png",
+    "introduction": "If you are looking out for a shortcut to fame, this is it!!! YOU THINK YOU ARE TOUGH?? THIS IS YOUR PLATFORM TO SHOW OFF... GEC ROADIES is back in its latest form ROADIES V 3.0 GET READY FOR MORE EMOTIONAL TORTURE, BLOODSHED AND PAIN!!! A LIFETIME EXPERIENCE IS AWAITING YOU...",
+    "round": ["ROADIES V 3.0 is an individual event. The participants are to be judged upon how strong they are.They will be put into immense mental pressure and physical hardwork..."],
+    "event_rules": ["Roadies v 3.0 is an individual event","Participants are instructed to carry an extra pair of dress","Participants with any kind of physical or mental illness are not expected to participate in the event.","The participation of every participant will be under the sole discretion of event coordinators.","The event coordinators reserve every right to pause/ cancel the event at any point of time with regard due to any mishap."],
+    "prizes": "10000",
+    "contact": {
+      "name": "ATHUL K  SHIBU",
+      "phone": "+918547109431",
+      "email": "athul.kshibu@gmail.com"
+    }
+  },
+  { 
+    "id": "87",
+    "event_name": "TREASURE HUNT",
+    "category": "General",
+    "image": "../images/icons/general/treasure hunting.png",
+"color":"#00BCD4",
+    "introduction": "You can either be a victim of the world or an adventurer in search of treasure. It all depends on how you view your life.....Remember that wherever your heart is, there you will find your treasure....And, when you want something, all the universe conspires in helping you to achieve it ? <br><p style='text-align='right''><strong>- Paulo Coelho<strong></p>",
+    "round": ["Written and Activity based  Prelims 60 Minutes duration, Team wise (Full team have to report and attend), .6 teams will be selected for the finals. Selected teams will be informed on the same day", "Hunt for treasure.Hunt for treasure continues until one team wins the treasure. "],
+    "event_rules": ["Maximum of 4 participants per team and Minimum of 3 participants per team","No Internet access during the prelims.","All additional traveling and other expenses should be paid by the team itself (Applicable to Finalist teams)"],
+    "prizes": "8000",
+    "contact": {
+      "name": "CEVIN CHARLY",
+      "phone": "+919400269547",
+      "email": "cevin.charly@gmail.com"
+    }
+  },
+  { 
+    "id": "61",
+    "event_name": "FOOTLOOSE",
+    "category": "Cultural",
+    "image": "../images/icons/cultural/footloose.png",
+"color":"#9C27B0",
+    "introduction": "Dance is a mixture of complex subtleties .It can either be an elegant manifestation of ones thoughts expressed using graceful movements of a mesmerising or a well ordered array of power packed moves and skills designed to enthrall and excite. Footloose is the ultimate stage set for an epic showdown between the select few who will get a chance to showcase their skills and temperament on the big stage.The choice is yours .Either sit down in the confines of your safe house OR do what it takes to bring home the bounty. ",
+    "round": ["Footloose is a group dance event .The team should have a minimum of 5 members and a maximum 0f 20 members. Each team shall be given 10 minutes (empty to empty) to perform. Performances can be theme based or non-theme based. Judging will be based on 1) Costume 2) Expressions 3) Synchronisation 4) Uniqueness and variety of moves performed"],
+    "event_rules": ["Maximum of two teams per college.","Each team will be given 10 minutes (empty to empty) for their performance.","Breakable and inflammable objects, fire, water and other substances which make the dance floor untidy must not be used during the performance","Vulgarity in performance shall lead to immediate disqualification.","Team leader should report at the backstage half an hour before the performance with a pen drive (or any other storage device) containing the sound track in MP3 format.","The registration fee is Rs 2000 for a team of 20.If the no of  members exceed 20 the extra members will be charged Rs 200 each."],
+    "prizes": "45000",
+    "contact": {
+      "name": "AKASH S KUMAR",
+      "phone": "+919846257157",
+      "email": "akashskumar12@yahoo.com"
+    }
+  },
+  { 
+    "id": "62",
+    "event_name": "OVERACTING",
+    "category": "Cultural",
+    "image": "../images/icons/cultural/enigma.png",
+"color":"#009688",
+    "introduction": "SO U THINK YOU CAN ACT???? BUT WERE YOU BORN TO DO IT??? MOULDED BY IT??? THINK AGAIN.... GET READY TO BE TAKEN TO THE EXTREME LEVEL OF ACTING OVERACT REMEMBER ITS OVERACTIG NOT ACTING.",
+    "round": ["Surprise rounds"],
+    "event_rules": ["vulgarity wont be entertained"],
+    "prizes": "7000",
+    "contact": {
+      "name": "AMALRAJ.V.S",
+      "phone": "+918943472471",
+      "email": "amalvsraj@gmail.com"
+    }
+  },
+  { 
+    "id": "63",
+    "event_name": "RULE THE STREETS",
+    "category": "Cultural",
+    "image": "../images/icons/cultural/flashmob.png",
+"color":"#CDDC39",
+    "introduction": "Want more attention??? Feel that no one is bothered about you. So its your chance to grab the crowds shout out what you want to say show them your way of doing things step out into the crowd...",
+    "round": ["The event will be conducted on a single day. The teams will have to perform their routine at any place they choose. The teams will be judged based on their style, expression, coordination, impact on crowd etc. Costumes are not considered."],
+    "event_rules": ["props may or may not be used","use of inflammable materials and substances that damage the venue is prohibited","Vulgarity in performance will lead to immediate disqualification.","Names of all the members must be produced and participation of others will lead to disqualification."],
+    "prizes": "5000",
+    "contact": {
+      "name": "ARJUN B VINOD",
+      "phone": "+918714469646",
+      "email": "arjunbvinod@gmail.com"
+    }
+  },
+  { 
+    "id": "64",
+    "event_name": "ZERO GRAVITY",
+    "category": "Cultural",
+    "image": "../images/icons/cultural/zerogravity.png",
+"color":"#795548",
+    "introduction": "To dance is to breathe! Wanna dance like nobodys watching you? And make your own steps while at it? This one is for you! Zero Gravity is an individual freestyle dancing competition which will be conducted on an open stage. So what are you waiting for? Hit the register button! And get ready to put on your dancing shoes and rock the stage.",
+    "round": ["Contestants can dance to the song of their choice. Time limit will be 4 minutes. 6 top contestants will be selected to the 2nd round by the judges on the basis of their performance.", "The final 6 contestants will be put to further test as they will have to dance to a random song. That song will be selected by picking lots. The skill tested will be the ability of the contestant to dance to any tune. Winner and Runner-up will be selected on the basis of their performance by the judges."],
+    "event_rules": ["props may or may not be used","use of inflammable materials and substances that damage the dance floor is prohibited","vulgarity in performance will lead to immediate disqualification"],
+    "prizes": "8000",
+    "contact": {
+      "name": "ATHUL P RAJ",
+      "phone": "+919061126411",
+      "email": "athulpraj@icloud.com"
+    }
+  },
+  { 
+    "id": "51",
+    "event_name": "BACKTRACK",
+    "category": "Coding",
+    "image": "../images/icons/coding/back.png",
+"color":"#F44336",
+    "introduction": "What would it be like cycling backwards? Do you dare stroll into the mystery of assembly language? Is your brain smart enough to read binary? Dont think 'out of the box' so that you may forget what lies deep inside .Come and prove your skills for decompiling the native code. Because you never learn to hack, you may hack to learn.",
+    "round": ["The preliminary round will test the knowledge of the participants in the software reverse engineering in Linux environment through an objective test. The top 10 teams will advance to the finals.", "The participants will be given a series of challenges which will test their practical knowledge in reverse engineering computer programs. The top two teams scoring maximum points will win the event."],
+    "event_rules": ["Team Participation.","Devices with internet connectivity will not be allowed during the any course of the event."],
+    "prizes": "7000",
+    "contact": {
+      "name": "ANAGH JAYAPRAKASH",
+      "phone": "+918893336475",
+      "email": "anagh@outlook.in"
+    }
+  },
+  { 
+    "id": "52",
+    "event_name": "CAPTURE THE FLAG",
+    "image": "../images/icons/coding/capture.png",
+    "category": "Coding",
+"color":"#E91E63",
+    "introduction": "It is good to know one's limits. But even better if you know how to push them. Ever wanted to know where that fine line existed between the good and the great? Words like HaX0r and pwnd make sense to you? Then there is a flag out there, waiting for you to lay siege to the system, and own it. Capture the flag is an information security centric programming Event where participating teams will compete against each other in a virtual environment and use their knowledge of hacking to try and exploit the systems in the Network that has been setup for the sole purpose of delighting hackers everywhere. The event consists of a closed network where the participating teams connected to the network will attempt to first get a set of services running on their systems and then attempt to exploit the vulnerabilities on other systems and patch their own vulnerabilities. The aim of the game is to obtain Flags a string of characters generated by the game server. The teams will submit this flag to the Admin system to obtain points. The event tests the working knowledge of the participants in the fields of Programming, network and most of all Hacking. Only those with a strong sense of competition and a never-say-die attitude may apply. This event is going to test you under pressure so be warned.",
+    "round": ["Written test based on concepts of Information Security. Will select only 7 teams. Duration of written test 30 mins. Written test will be followed by a small training session to introduce idea to participants. New concept so needs to be explained.", "Duration 3 to 5 hours depending on how the event is proceeding. Internet will be provided. Will select top 2 teams as winners."],
+    "event_rules": ["Inter College teams are allowed","Maximum of 2 participants per team","Communication devices are not allowed"],
+    "prizes": "7000",
+    "contact": {
+      "name": "NIDHIN VIJAY",
+      "phone": "+919496674160",
+      "email": "nidhinvnm@gmail.com"
+    }
+  },
+  { 
+    "id": "53",
+    "event_name": "DESIGN VISTA",
+    "image": "../images/icons/coding/dev.png",
+    "category": "Coding",
+"color":"#3F51B5",
+    "introduction": "Intelligence  and Creativity Together Are you ready to make science and art break even? Build customized user interface to pull everyday programing feat off with panache and style.",
+    "round": ["In the preliminary round, participants will be asked to create an SVG of a given image. The top ten students will be selected for the final round.", "The Final round will be of 3 hours. Candidates have to showcase their UI designing skills that should be crafted on a selected theme before time runs out. Judging will be based on attractive, concise, efficient  design styles etc."],
+    "event_rules": ["Individual participation only.","Knowledge in Photoshop and Inkscape is mandatory.","No Internet access during the event.","Participants are not permitted to leave the hall until they finish the event.","Mobile Phones and other communication devices are not allowed"],
+    "prizes": "6000",
+    "contact": {
+      "name": "ANIRUDH PRASAD",
+      "phone": "+919846079065",
+      "email": "anirudhprasad18@gmail.com"
+    }
+  },
+  { 
+    "id": "54",
+    "event_name": "OVERNIGHT CODING",
+    "image": "../images/icons/coding/overnite.png",
+    "category": "Coding",
+"color":"#2196F3",
+    "introduction": "Event will be conducted from 12 AM to 6 AM. A series of problems will be provided to all the teams. You have to solve maximum number of problems before the time runs out. The one who solves maximum number of problems will  be the winner",
+    "round": ["The preliminary round will test the knowledge of the participants in data strucuters, algorithm design and programming logics.", "The participants will be given a series of problems which will test their strengths in algorithm design and problem solving skills."],
+    "event_rules": ["Inter College teams are allowed.","Maximum of 2 participants per team.","No Internet access during the event.","Participants are not permitted to leave the hall until they finish the event."],
+    "prizes": "10000",
+    "contact": {
+      "name": "GOKUL T P",
+      "phone": "+919400203706",
+      "email": "tp.gokul@gmail.com"
+    }
+  },
+  { 
+    "id": "55",
+    "event_name": "ULTIMATE GEEK",
+    "image": "../images/icons/coding/geek.png",
+    "category": "Coding",
+"color":"#4CAF50",
+    "introduction": "If you tend to skip your food, sleep or studies just because you've got a computer, then this is the event for you. Be prepared to face challenges from any field of computing which will test your mettle. You think you know computers? Think again. Face the ultimate battle in the ultimate fest and you shall be crowned THE ULTIMATE G33K. Glory shall be yours!!",
+    "round": ["The preliminary round will test the knowledge of the participants in various fields of computing through an objective test.The top 10 participants will advance to the finals.", "The participants will be given a series of challenges which will test their practical knowledge in various fields of computing. Beat the pack and be crowned as THE ULTIMATE GEEK."],
+    "event_rules": ["Indvidual Participation.","Devices with internet connectivity will not be allowed during the any course of the event."],
+    "prizes": "7000",
+    "contact": {
+      "name": "JITHESH VIJAYAKUMAR",
+      "phone": "+917293745307",
+      "email": "jithesh@dyuthi.in"
+    }
+  },
+  { 
+    "id": "56",
+    "event_name": "WEB BULLY",
+    "image": "../images/icons/coding/webbully.png",
+    "category": "Coding",
+"color":"#8BC34A",
+    "introduction": "Revamp what has been destroyed Craft an excellent balance between breadth and depth, covering the art- as well the science- of creating web pages If you are a seasoned web hand, you !! Probably just want to skim the scraps.",
+    "round": ["Objective test to check basic skills in programming and general aptitude. 7 candidates will be selected based on the score obtained in the exam", "Event will be 2 hours. Candidate is provided with images and scrap code from which he has to debug and recreate the original web site. You will have a Linux based PC. Water/toilet facilities will be provided. Judging will be based on the speed, clean coding style, accuracy.etc The one which is more resembled to the original website will be selected in case no one succeeds."],
+    "event_rules": ["Individual participation only.","Knowledge in HTML, CSS, and JavaScript will be mandatory.","No Internet access during the event.","Participants are not permitted to leave the hall until they finish the event.","Mobile Phones and other communication devices are not allowed."],
+    "prizes": "6000",
+    "contact": {
+      "name": "ASHFAQ ANWAR C K",
+      "phone": "+919947142491",
+      "email": "ashfaqanwar06@gmail.com"
+    }
+  },
+  { 
+    "id": "111",
+    "event_name": "LINE FOLLOWER",
+    "image": "../images/icons/robotics/line follower.png",
+"color":"#4CAF50",
+    "category": "Robotics",
+    "introduction": "Maj: Xor,is in his all effort to restore back the glorious days of planet KRYPTON .He has invaded EARTH and nobbled the ERRATA CODEX from the perpetual cryptx. Time is running up, before he completely decodes the cryptx and gets the errata. Put yourself in this exciting mission to save earth We have the following info from our spies abroad: 1.Xor has kept the cryptx in DEV-EM, for his scientists to crack the code 2. DEV-em has a unique floor pattern in BLACK and WHITE. Designed by Daxam 3 .-.. .. -. . ..-. --- .-.. .-.. --- .-- . .-. not decrypted till date , our cryptographers are trying hard",
+    "round": ["Cornering out the best ones as its true that only the fittest survives ..race against TIME to book your berth", "The final war @KRYPTON, follow the unique pattern to get back the errata"],
+    "event_rules": ["A team can have 4 participants (inter college teams allowed).","The path to be traversed will be black line on white surface. The width of the black line will be 4cm.","The bot must fit within a square of dimensions 30cm x 30cm x 30cm and must be completely autonomous.","The track may contain straight paths,curves,90/acute angles, junctions and loops","The full track will be divided into checkpoints","A portion of the track will be revealed for testing the bots","Every robot can take 2 runs of which the best (fastest) time counts.","If none of the bots finishes the track. Then the maximum distance + time decides the winner."],
+    "prizes": "12000",
+    "contact": {
+      "name": "AMAL S CHANDRAN",
+      "phone": "+919495511040",
+      "email": "amalsrt@gmail.com"
+    }
+  },
+  { 
+    "id": "112",
+    "event_name": "ROBO RIOT",
+    "image": "../images/icons/robotics/robo war.png",
+"color":"#FF5722",
+    "category": "Robotics",
+    "introduction": "Take the Chaos to next level. ROBO RIOT is the ultimate robo-war. Strength and agility of your bot will be tested on the war fields of GECT. Simple as rules of nature, the fittest will survive. Polish your iron shields. Its time for war!!!",
+    "round": ["LEAGUE MATCH : Each match with length of 2 minutes.", "Semi Finals match of length 2minutes x 2rounds with 30 seconds interval. Finals match of length 3minutes x 3rounds with 1 minute interval. Rounds may be altered if necessary."],
+    "event_rules": ["Maximum number of participants per team : 4","Number of rounds : 3 rounds (Maybe varied according to the number of participants)","Dimension : 50cm x 50cm x 50cm","Weight : Maximum 15Kg(20Kg for wireless bots)","Power Supply : Maximum 24V DC","Controller: Control may be wired or wireless. If wired, cable should have a minimum length of 5m. Wireless bots should have minimum 2 controllers of different frequencies to avoid interferences. Wireless bots will be given advantage points except in finals.","You are allowed to equip your bot with cutters, drills or hammers to destruct your opponent. But intentional disruption to the power supply of your opponent bot will lead to disqualification.","Fire, Electromagnets and any kind of projectiles should not be used. No liquids and chemicals should be used for attack. Pneumatic pumps may be used.","You may destruct your opponent bot but not the arena. Intentional destruction of the arena may lead to disqualification of participant.","For no reason participants are allowed to enter arena."],
+    "prizes": "22000",
+    "contact": {
+      "name": "JOB V. J",
+      "phone": "+919020205029",
+      "email": "jvjctk@gmail.com"
+    }
+  },
+  { 
+    "id": "31",
+    "event_name": "CRAZY BULBS",
+    "image": "../images/icons/circuit/crazy bulbs.png",
+"color":"#9C27B0",
+    "category": "Circuits",
+    "introduction": "CRAZY BULBS is a crazy challenge on wiring circuits. Come and play with circuits. We are challenging you to solve the maze and light the proper bulbs. Here we are testing your analysing skill and technical skill. You have to select the right switches to win otherwise you will be a loser. Remember a challenge only becomes an obstacle when you bow to it. So who do you want to be? WINNER or LOSER.",
+    "round": ["PRELIMINARY OBJECTIVE TYPE QUESTIONS TO TEST THEIR EXPERIMENTAL SKILLS. 30 MINS.  BASIC ELECTRICAL QUESTIONS. 16 TEAMS WILL BE SELECTED.", "WIRED UP CIRCUIT WILL BE PROVIDED TO TEAM. THEY CANNOT ALTER THE CIRCUIT, THEY SOULD SWITCH ON SUCH  A WAY TO LIGHT THE BULBS ACORDING TO THE LOGIC GIVEN IN THE QUESTION"],
+    "event_rules": ["WEAR SHOES WHILE ENTERING ELECTRICAL WORKSHOP"],
+    "prizes": "5000",
+    "contact": {
+      "name": "JOHN SUNNY",
+      "phone": "+919400686781",
+      "email": "johnjy93@yahoo.co.in"
+    }
+  },
+  { 
+    "id": "37",
+    "event_name": "REV.TRONICS",
+    "image": "../images/icons/circuit/revtronics.png",
+    "category": "Circuits",
+"color":"#673AB7",
+    "introduction": "Down to 14 nm and still dropping  ! That√¢s how design technology has been developing. Every day, perhaps every minute, the design is improving.True, optimisation is the key to any engineering problem. Here is the chance to live the reverse engineer in you. Show how you can improve upon the present to lead the way to future. We will give you the haunting problem and a limping solution and we know you are the best who can cure it.Come on, Put your design skills to the fore, Chant the mantra of √¢Optimisation√¢ and Sorcerize that ghostly problem",
+    "round": ["Written Prelims to test the understanding in basic electronics and related subjects. This is an elimination round. Only selected teams move on to the next round.", "A mini quiz round that prepares you to take on the finals. The theme is Electronics-The way back and beyond.  This will pep you up and lets you earn the bonus points that may help you dearly in case of a tie in the finals.","The Finals! Here awaits you a problem statement. A neatly wired circuit will be provided- a potential solution to the given problem. All that glitters are not gold! So, check it out and kill those bugs. An engineering mind is always on the pursuit for improved solution. So, sharpen your thoughts and showcase your optimising power. Suggest an optimized solution to the given problem, wire it and demo it; The show is all yours"],
+    "event_rules": ["Inter College teams are allowed","Teams should comprise of a maximum of 2 members","Event coordinators reserve the right to divide the prize money in case of a tie between the teams.","The design should only use the common components and those that are available in the concerned lab.","Design using unavailable/uncommon components shall not be valid despite their optimality."],
+    "prizes": "5000",
+    "contact": {
+      "name": "DEEPAK G",
+      "phone": "+919745391465",
+      "email": "nair.deepakg@gmail.com"
+    }
+  },
+  { 
+    "id": "36",
+    "event_name": "OSCILLOSCOPE DRAWING",
+    "image": "../images/icons/circuit/arduino master.png",
+    "category": "Circuits",
+"color":"#8BC34A",
+    "introduction": "Have you ever thought of drawing an image using electrical circuits and a simple code? Here we bring you the opportunity to draw your own image on a CRO screen. You will definitely enjoy bringing out your artistic skills using a CRO screen. Make CRO to a drawing table and make waves to brushes.",
+    "round": ["Written prelims, 30 minutes test, 8 teams will be selected, test includes basic CODING questions, basic circuit questions", "Round 2 is again an elimination round. Simple patterns will be provided. Participants will have to draw the pattern using the waves. You will have signal generator, basic circuit components etc.4 teams will be selected.Time : 40 minutes time","The final round is to measure coding skills of the participants. Arduino boards, compiler, USB cables, circuit components etc. will be provided to the participants. Finalists will have to draw the given pattern using the arduino programming. This round will be judged by the optimization level of the code, accuracy of the pattern generated etc.Time: 45 minutes"],
+    "event_rules": ["Inter College teams are allowed","Teams should comprise of a maximum of 2 members","Usage of mobile phones and internet are prohibited in both the rounds","You can bring your arduino board."],
+    "prizes": "6000",
+    "contact": {
+      "name": "Renoy J Kulangara",
+      "phone": "+919995292128",
+      "email": "renoyjoy@gmail.com"
+    }
+  },
+  { 
+    "id": "32",
+    "event_name": "ELECTROPOLY",
+    "image": "../images/icons/circuit/electropoly.png",
+    "category": "Circuits",
+"color":"#009688",
+    "introduction": "Electropoly: The high voltage gamble!! For all you engineers, here is a chance to prove your business worth. Engineering is not only about creation and innovation, but also essentially involves the smart and meticulous utilization of resources in hand. Electropoly, an engineering event mixed with the elements of the board-game monopoly is looking out for the best biz-tech person out there. Are you the one we seek?",
+    "round": ["Objective test to check their knowledge in basic electronics. The test will be for a duration of 30 min comprising of 30 MCQs. 5 teams will be selected to the final round", "Event will be conducted for a duration of 3 hrs. A certain amount of credit will be provided to the teams at the beginning. A common set of problems will be provided to all the teams. You have to solve maximum number of problems before the time runs out with minimum amount of components. Teams will be provided with CRO, power supplies, connecting wires and signal generators by default. All other components have to be bought from the store. Credits will be awarded after successful completion of each task. The winners will be decided based on the credits left with them at the end of the allowed time limit. Judging will be based on the credits available with them at the end of the allowed time limit"],
+    "event_rules": ["Inter College teams are allowed","Maximum of 2 participants per team etc.","No Internet access during the event.","No mobile phones allowed during the event","Participants are not permitted to leave the hall until they finish the event.","Components once bought will not be taken back.","The teams will have to return all the components bought after the completion of each event.","Each team will have to report to the coordinators after completion of each task. The coordinators will verify the output and the allotted credits will be awarded.","In case of a tie the team with higher marks in the prelims will be declared the winner"],
+    "prizes": "6000",
+    "contact": {
+      "name": "SUJITH K V",
+      "phone": "+919995648851",
+      "email": "sujithkv1992@gmail.com"
+    }
+  },
+  { 
+    "id": "33",
+    "event_name": "FRIKI ELECTRONICA",
+    "image": "../images/icons/circuit/friki eLEctronica.png",
+    "category": "Circuits",
+"color":"#3F51B5",
+    "introduction": "Are you a geek?? Do u find pleasure in solving the trickiest problems in electronics?? Gather your team and come aboard mate.... Captain has got a challenge for you..",
+    "round": ["Written test to check basic knowledge and design skills in electronics.8 teams will be selected based on score obtained in the test.", "The second round is divided into three sections. Each section consists of different tasks. The event progresses as the participants finish the task and gains the clue for solving the final task. The winners will be decided based on finishing time and perfection in the output"],
+    "event_rules": ["Inter collegiate teams are allowed.","Maximum of 3 participants per team","No internet access during the event and use of mobile phones are restricted.","Participants are not permitted to leave the hall until they finish the event.","The cost of any damages to the lab equipment's will be incurred from the participants"],
+    "prizes": "6000",
+    "contact": {
+      "name": "VYAS P S",
+      "phone": "+918907807800",
+      "email": "librevyas@gmail.com"
+    }
+  },
+  { 
+    "id": "34",
+    "event_name": "GONE HAYWIRE",
+    "image": "../images/icons/circuit/Gone Haywire.png",
+    "category": "Circuits",
+"color":"#795548",
+    "introduction": "Everything seems to be just that, GONE HAYWIRE! All you have at your disposal is a set of twisted, intertwined wires Set before you, is a task. Can you achieve what seems unattainable? But beware, Help Comes at a Cost! Come, take it away, if you have it in YOU!!! Coz, as they say, IMPOSSIBLE IS NOTHING!!!.",
+    "round": ["The prelims will be a written test of 30 Multiple Choice Questions. It will cover the basics of electrical circuits. The 10 top scoring teams in the prelims will be selected to the finals.", "The second round will be a circuit debugging session of 3 Questions. The maximum time allotted is 30 minutes .Only the first 3 teams will be eligible for the third round.","In this round each team has to design and wire up the electrical circuit to meet the given conditions. Total time for this round is 2.5 hrs"],
+    "event_rules": ["No Internet access during the event.","Participants are not permitted to leave the hall until they finish the event.","Inter College teams are allowed.","Maximum of 2 participants per team"],
+    "prizes": "5000",
+    "contact": {
+      "name": "SREEJITH C",
+      "phone": "+919567538445",
+      "email": "sree181093@gmail.com"
+    }
+  },
+  { 
+    "id": "35",
+    "event_name": "HURT LOCKER",
+    "image": "../images/icons/circuit/hurt locker.png",
+    "category": "Circuits",
+"color":"#F44336",
+    "introduction": "Its the Festive season in the Holy Land! The crowds have thronged the streets. But Alas! The worst fear has come true! A terror outfit has somehow managed to deploy a potent nuke at the Holy Shrine, to wipe off the entire city. As the expert, YOU are called upon for the seemingly impossible task  to Disarm the Nuke! Do you have it in you to figure it all out, before it gets too late? Can you turn Messiah for the city and its people, in this ultimate Race Against Time?  Cut the Red wire Or, is it the Blue one???You Will Know When You Are In It! BTW, their goes the timer, Unheeded Tick Tick Tick Tick!!! YOU DONT HAVE TO BE A HERO TO DO THIS JOB.  BUT IT SURE, HELPS!!!",
+    "round": ["The prelims will be a written test of 30 Multiple Choice Questions. It will cover the basics of Analog & Digital electronics, Microcontrollers etc. The 5 top scoring teams in the prelims will be selected to the finals.", "For the second round the participants will be provided with the bomb circuit with sufficient details. There will be a time limit. Teams have to analyse the circuit and determine the unique solution that will reset the timer (or defuse the Bomb). The judgement will be based on speed and accuracy of the result. If all teams fail to attain the solution, then the team which debugs closest to the answer will be selected as winners."],
+    "event_rules": ["Inter College teams are allowed","Teams should comprise of a maximum of 2 members","Usage of mobile phones and internet are prohibited in both the rounds","Malpractices will lead to immediate disqualification"],
+    "prizes": "6000", 
+    "contact": {
+      "name": "NITHEESH RAJ",
+      "phone": "+919495028885",
+      "email": "a.nitheesh.raj@gmail.com"
+    }
+  },
+  {
+    "id": "21",
+    "event_name": "CHEM CRUZ",
+    "image": "../images/icons/chemical/Chem cruz.png",
+    "category": "Chemical",
+"color":"#E91E63",
+    "introduction": "A unique event that spans across multiple disciplines of engineering like mechanical, automobile and chemical engineering, along with a blend of pure science. Chem-Cruz certainly is a test of your engineering capabilities. Designing and building a car powered entirely by a chemical reaction would put your inner engineer in an event that promises to be a true test of team work and passion.",
+    "round": ["This round is designed to see how fast the cars can go. The time taken by each car to cover a specified distance (approx 40ft ) will be measured and the fastest cars will move on to a drag race.", "Round one will measure the control the designers have on the reaction. In this round teams are required to control the reaction in such a manner that they can bring their cars to a stop within a specific distance. Points will be given based on how close to the finish line the car managed to stop.","Round three is about the structural integrity of the design. Setting the cars off on some rough terrain will show what they are made of."],
+    "event_rules": ["Open to both schools and colleges.","Teams should comprise of maximum of 4 members.","Cross college/school teams are allowed.","The cars should fit in a box of dimensions 30 x 30 x 30cm","No ready-made parts should be used on the cars, except the wheels.","The cars should not be powered using batteries and should not use motors.","A report about the reaction and the chemicals involved should be submitted during the event. Any special design characteristics should be mentioned as they can fetch additional points.","Use of explosive chemicals such as potassium chlorate will lead to disqualification. Explosive reactions and combustion are not accepted.","Further changes may be applied to the above rules or new rules may be added on an ad-hoc basis, but the overall structure will not have much changes."],
+    "prizes": "10000",
+    "contact": {
+      "name": "SREENATH K R",
+      "phone": "+919809780540",
+      "email": "sreezpersonalid@gmail.com"
+    }
+  },
+  { 
+    "id": "22",
+    "event_name": "MAD CHEMISTRY",
+    "image": "../images/icons/chemical/mad chemistry.png",
+    "category": "Chemical",
+"color":"#3F51B5",
+    "introduction": "CHEMISTRY, the fascinating of all the sciences but the classrooms and the blackboard making it dull and gray? Break open the lab coats and bring out the mad scientist in you. Show us the travails you took to be the ultimate mad scientist and walk away with the laurels!",
+    "round": ["The team has to jot down the reactions they are going to demonstrate and the chemicals involved in each one. The jury will go through them and those that have zero hazard potential and that do not hinder the aesthetics of the surroundings will be allowed.","The team will be given three minutes to set up the laboratory arrangement and Ten minutes for demonstration. The jury will judge on the basis of innovation, intriguity, discipline and safety precautions taken."],
+    "event_rules": ["maximum five particpants per team","Safety precautions (goggles and gloves) need to be taken up by the participants compulsorily.","No use of explosive chemicals or toxic chemicals will be allowed.","The participants need to bring the chemicals required for their experiments on their own. No reagents will be provided at the venue.","The outcome of the reactions should not disturb the aesthetics of the surroundings ( E.g. Evolution of pungent odours, fumes etc)"],
+    "prizes": "7000",
+    "contact": {
+      "name": "MRINALINI GOVIND",
+      "phone": "+919496003977",
+      "email": "mrinalinignair@gmail.com"
+    }
+  },
+  { 
+    "id": "23",
+    "event_name": "RUDIMENTARY",
+    "image": "../images/icons/chemical/RUDIMENTARY.png",
+"color":"#2196F3",
+    "category": "Chemical",
+    "introduction": "If you are looking for a platform to exercise your grey cells in cracking the core chemical engineering problems, then you are at the right place! To release your exothermic heat of knowledge!!! We are here to disturb the Entropy of your system!! Apply your basic Chem-E knowledge to tackle troubles in and out of the industry, experience quizzing on a new dimension. Knowledge is a weapon. Arm yourself well before going to the battle!!",
+    "round": ["A written round consisting of maximum 30 questions from core chemical engineering subjects like Heat and mass transfer, process control, fluid mechanics etc. The questions include both subjective and objective type.", "Quiz competition consisting of 6-7 rounds that questions basic chemical engineering and troubleshooting skills."],
+    "event_rules": ["Inter College teams are allowed","Maximum of 2 participants per team","No Internet access during the event.","Participants are not permitted to leave the hall until they finish the event."],
+    "prizes": "5000",
+    "contact": {
+      "name": "IMMANUEL C THAMBI",
+      "phone": "+918281980537",
+      "email": "immanuelcthambi@gmail.com"
+    }
+  },
+  { 
+    "id": "41",
+    "event_name": "CHAKRAVYUHA",
+"color":"#4CAF50",
+    "category": "Civil",
+    "image": "../images/icons/civil/Chakravyuha.png",
+    "introduction": "Civilisation progressed on the wings of exploration- the journey is going on..... .If you possess that instinct to explore survey and analyse territories, come leap into Chakravyuha with your team and find your way out step by step solving each tangled clues. But be careful, cuz one wrong step and you'll be wallowing in the mud.",
+    "round": ["Written test, 20min , testing basic survey knowledge of the participants, top 4 teams selected for next level", "To find out the treasure using compass, 3 hours"],
+    "event_rules": ["Inter college teams are allowed","Usage of communication devices during the event may be accounted as a high level Disqualification.","Equipment provided would be under the risk of participants only."],
+    "prizes": "5000",
+    "contact": {
+      "name": "MEGHA ROBY",
+      "phone": "+919037069691",
+      "email": "megharoby@gmail.com"
+    }
+  },
+  { 
+    "id": "42",
+    "event_name": "DEZINOPOLIS",
+    "image": "../images/icons/civil/Dezinopolis.png",
+    "category": "Civil",
+"color":"#8BC34A",
+    "introduction": "Do u have what it takes to be the most competent, creative and sensible planner?? Like some fun and games?? If yes, here you can definitely be the next Master Planner. Play with jigsaw puzzles and let your imagination run wild. Put on your creative hats, and rack your brains to come up with layouts of efficient and sensible building plans. 3 rounds, 3 tasks and one winner. Plan your way from building the dream house to the dream city. Here is the ultimate hunt for the best planner. We give you the need put together your brains and leap in, find a solution and model it off to grab your prizes...",
+    "round": ["Objective round to check general aptitude .12 teams will be shortlisted for the second set of prelims on puzzles and basic planning.4 teams will be finally shortlisted", "A situation will be provided .Plan the town and create its model in 3 hours. Judging will be based on functionality , creativity and economy"],
+    "event_rules": ["A team should comprise of a minimum of 2 participants and maximum of 4 participants.","Inter college teams are allowed","Participants will not be allowed to leave the hall till the event is completed","No communication devices are permitted after the event commences."],
+    "prizes": "7000",
+    "contact": {
+      "name": "KRISHNAN K N",
+      "phone": "+918547573533",
+      "email": "krishnan0487@gmail.com"
+    }
+  },
+  { 
+    "id": "43",
+    "event_name": "EL ARCO",
+    "image": "../images/icons/civil/elarco.png",
+"color":"#FF9800",
+    "category": "Civil",
+    "introduction": "If you have always marvelled at the glory of the arches, we provide you an opportunity to build your own. If you think you have an impeccable team with immaculate technical skill, wait no more. Together you can create, study and magnificent arches. Lets see if you can make it into the pages of history.",
+    "round": ["Round 1 is to find out the skill of the team to make a structure. A team will be given a deck of cards with which they have to erect a structure of specifications that will be given on the spot. 8 teams will be selected.", "8 teams selected from the round 1 will have to make another structure using the given sticks and thread. Maximum time is 1.5 hours. Specifications of the structure will be provided on the spot. The structure will be loaded from top. First 3 teams will be selected to finals.","Will have to make an arch of a given minimum span using brick and mortar within 2.5 hours. The arch will be loaded on top."],
+    "event_rules": ["Use of any other materials than that given shall be disqualified","No additional time will be given","Minimum number of participants is 3 and maximum 4 ","No participants must leave the premises during the course of their participation."],
+    "prizes":"8000",
+    "contact": {
+      "name": "ASWIN K JOSEPH",
+      "phone": "+919539143043",
+      "email": "aswinkevin@gmail.com"
+    }
+  },
+  { 
+    "id": "44",
+    "event_name": "MANIACO ESTRUCTURAL",
+    "image": "../images/icons/civil/Manio.png",
+"color":"#FF5722",
+    "category": "Civil",
+    "introduction": "Youve build models of sticks or may be of cards, papers or plastic. But what about the real steel that you see in a yard. Do you have the guts to face real building challenges? Have a try, This time its not just an event. Wear your helmets. Shove your skill of your heads. Tighten your muscles. This time you are gonna need them all. Come on, join us and together well have fun and more that, EXPERIENCE. This time, prove your skill and rise a scaffolding with no host structure while the clock ticks and crowd uproar..",
+    "round": ["This would be an on the spot event to test your skill and speed. Top 4 teams would be selected for the next round", "You are given a set of steel pipes, couplings and required safety equipment. For a given height, erect a vertical scaffolding on four legs with the given materials in given time. Ensure you have a standing platform, and a proper access to the platform using the scaffolding only. Volunteers would be present to assist you. The best structure in minimum time would be awarded."],
+    "event_rules": ["Safety equipment should be used properly","Equipment provided would be under the risk of participants only.","No usage of communication devices.","If no one completes the task within the allotted time, the winners will be selected based on the progress of the task given."],
+    "prizes": "8000",
+    "contact": {
+      "name": "KARTHIK NAIR",
+      "phone": "+918547594806",
+      "email": "kartik.nair1993@gmail.com"
+    }
+  },
+  { 
+    "id": "45",
+    "event_name": "NO FINES CON-QUEST",
+    "image": "../images/icons/civil/nofines.png",
+"color":"#FF5722",
+    "category": "Civil",
+    "introduction": "\"WHEN IT RAINS, IT DRAINS\". The concrete is not a lump of mass or lifeless corpus. Do you ever wonder the unfathomable capabilities of the ingenious material concrete? Well, here is one of the gilded and mind-bending events of DYUTHI15 .Come to GEC this winter and compete with the galvanizing minds across the country in the novel and thought provoking event NO FINES CON-QUEST. Teams need to make Pervious concrete cubes that suffices the given problem statement. Pervious concrete or No fine concrete is the future concrete which have esoteric role in concrete industry. Excited?? Then, get ready to unleash your creative skills to transform the impermeable concrete to a pervious one <p>Reference -> <a href=\"http://myscmap.sc.gov/marine/NERR/pdf/PerviousConcrete_pavements.pdf\" target=\"_blank\" style='font-size: 12px'>material 1</a> <a href=\"https://www.dropbox.com/s/euymtuwpt4vunqm/s.jpg?dl=0\" target=\"_blank\" style='font-size: 12px'>material 2</a></p>",
+    "round": ["The permeability of the concrete cubes are tested according to IS codes", "The compressive strength of the concrete cubes are tested according to IS codes."],
+    "event_rules": ["Each team can have a maximum of 4 members and minimum of 3 members.","The team will have to submit three concrete cubes of standard size (150mm√150mm√150mm) at 10 am on the day of event","The participating team should have a guide who is a registered faculty member of the college.","The teams should submit a report duly attested by the guide at the day of the event","No restrictions for the materials to be used in the event except for reinforcing materials in any form such as steel fibres, synthetic fibres, steel reinforcing bars etc. should not be used for making the cubes","Cubes must be cast exactly 7 days before the competition. To ensure no cubes are cast before this time, coordinators will give necessary instructions on the day of casting.","The final mark distribution is as follows, 65% weightage is given to permeability, 30% weightage is given to compressive strength, 5% for the report","Please bring a print out of this form when you come for this event <a href=\"https://www.dropbox.com/s/79o01kx3k133kwb/NO%20FINES%20CONQUEST%20REPORT.pdf?dl=0\" target=\"_blank\" style='font-size: 12px'>click here</a>"],
+    "prizes": "8000",
+    "contact": {
+      "name": "MANU K MOHAN",
+      "phone": "+919400482641",
+      "email": "way2manu.k.mohan@gmail.com"
+    }
+  },
+  { "id": "91",
+    "event_name": "CONTRAPTO",
+    "category": "Mechanical",
+    "image": "../images/icons/mech/contrapto.png",
+"color":"#673AB7",
+    "introduction": "They all say keep it simple.But for all those who liked the way TOM tried to capture JERRY we offer you a real chance.Do you have a crazy mind capable of dreaming up the most complex of answers to the simplest of task?",
+    "round": ["Schematic of the contraptions sent by the teams will be filtered and 8-10 contraptions will be selected by the judges. The teams must be informed of their selection at least a week before the event.On the day of the event teams will be given 2 hours to setup their contraption. Each team will receive only one valid  trial. The space allotted for each contraption will be 8ft*8ft. Each team is to be provided with a single 5 amp power supply extension if requested beforehand. Desks and benches must be made available in numbers as requested by teams.Judgment Criteria are as follows Number of steps Number of interruptions Aesthetics  Overall innovativeness"],
+    "event_rules": ["Maximum of 5 participants are allowed per team","Participants cannot influence any part of their contraption after the contraption has been initiated unless an interruption has been claimed.","Maximum number of interruption is limited to 10.","Desks, benches and electrical extension if required must be informed beforehand to the event management committee."],
+    "prizes": "10000",
+    "contact": {
+      "name": "PRAVEEN PRADEEP",
+      "phone": "+919249425757",
+      "email": "praveen_pradeep@rocketmail.com"
+    }
+  },
+  { "id": "92",
+    "event_name": "JUNKYARD WARS",
+    "image": "../images/icons/mech/junkyard.png",
+    "category": "Mechanical",
+"color":"#009688",
+    "introduction": "Do you think you can change the world by new innovations? Then Dyuthi 15 welcomes you for this event. This event is not just confined to mechanical students. All who are interested in machines can be a part of it.",
+    "round": ["Aptitude test. 5 teams will be selected based on the score obtained in the exam", "Don√t you like suspenses? The details of this round will be given right at the venue."],
+    "event_rules": ["Team event comprising of 4 members per team.","Inter College teams are allowed"],
+    "prizes": "6000",
+    "contact": {
+      "name": "NITHIN P GEORGE",
+      "phone": "+919061106859",
+      "email": "nithinpgeorge333@gmail.com"
+    }
+  },
+  { 
+    "id": "93",
+    "event_name": "LATHE MASTER",
+    "image": "../images/icons/mech/lathe.png",
+"color":"#CDDC39",
+    "category": "Mechanical",
+    "introduction": "A competition where the spirit of being a mechanical engineering student is put to the absolute test.Test your machining skills with a lathe and you could have loads to brag about if you emerge as the best",
+    "round": ["Objective test to check basic knowledge in Lathe and its operations. 5 persons will be selected based on the score obtained in the exam. Test starts at 11:00AM.", "Event will be conducted from 12:30 to3:30PM. Model of the work will be provided. You have to model it with maximum possible accuracy and surface finish.Judging will be based on the speed, Dimensional accuracy, surface finish etc."],
+    "event_rules": ["The candidates will be fined for any damages caused to the equipments provided.","The candidates wont be allowed to leave the hall once the competition gets started."],
+    "prizes": "5000",
+    "contact": {
+      "name": "VINU T.V",
+      "phone": "+917736660997",
+      "email": "vinutv000@gmail.com"
+    }
+  },
+  { "id": "94",
+    "event_name": "PITSTOP WARS",
+    "image": "../images/icons/mech/pits.png",
+    "category": "Mechanical",
+"color":"#795548",
+    "introduction": "Be ready to tighten the nuts. It's something heavy!!  Because you are going to play with a machine!!   Jack up a car and change the tires as fast you possibly can and show us the technical capability in you!!",
+    "round": ["The teams can directly enter to the event without prelims and the team has to  jack up the vehicle, disassemble 4 tires, interchange them(diagonally)  and finally reassemble them The team which takes the least time wins"],
+    "event_rules": ["A team must comprise of two members.","The removing and refitting of wheels must be done within the specified time limit.","Inter college teams are allowed.","The final decision will be taken by the committee.","The team which takes the least time wins.","No external tools other than provided will be allowed.","Committee will not take responsibility for any injuries or defect of car parts during the event."],
+    "prizes": "5000",
+    "contact": {
+      "name": "SOORAJ C",
+      "phone": "+919895401654",
+      "email": "csooraj007@gmail.com"
+    }
+  },
+  { "id": "101",
+    "event_name": "FOREMAN FIX",
+    "image": "../images/icons/production/Foreman fix.png",
+    "category": "Production",
+"color":"#F44336",
+    "introduction": "To be a foreman, one should possess a great deal of proficiency attained by prolonged work experience.In this event, each team will be provided with a mechanical component in its dismantled form. The task is to assemble it back to obtain its original structure. And needless to say, the one with the shortest time window will be declared the winner.",
+    "round": ["Objective test to check basic knowledge in mechanical systems and structures. 4 teams will be selected based on the score obtained in the exam.", "The second round will be of maximum 2 hours duration. Each will be provided with a mechanical system in the dismantled form which have to be assembled in 2 hrs. Spanners or equipments needed will be provided.Judging will be based on the speed, accuracy.."],
+    "event_rules": ["Participants are not permitted to leave the hall until they finish the event.","Maximum of 4 participants per team√","Use of mobile phones is prohibited."],
+    "prizes": "6000",
+    "contact": {
+      "name": "VYSAGH A.G.",
+      "phone": "+919656014556",
+      "email": "a.g.vysagh@gmail.com"
+    }
+  },
+  { "id": "102",
+    "event_name": "PRO ENGINEER",
+    "image": "../images/icons/production/pro engineer.png",
+"color":"#E91E63",
+    "category": "Production",
+    "introduction": "ENGINEER YOUR OWN WAYS TO GLORY.THE HIGHLIGHT EVENT OF DEPT OF PRODUCTION ENGINEERING. AN EVENT TO TEST THE REAL ENGINEERING SKILLS. COME AND PROVE THAT YOU DESERVE TO BE AN ENGINEER. THE PARTICIPANT CAN BE OF ANY BRANCH. ONLY THE ENGINEERING SENSE MATTERS. SO PUT INTO PRACTICE EVERYTHING YOU LEARNT. TIME TO BE THE BEST PRO ENGINEER.",
+    "round": ["WRITTEN APTITUDE TESTS AND A SCHEDULING ACTIVITY TO CHECK THE BASIC SKILLS OF PATICIPANTS. FINAL PARTICIPANTS SELECTED BASED ON THE MARKS OBTAINED IN THE ABOVE MENTIONED TESTS.", "TASKS TO TEST ENGINEERING & MARKETING SKILLS"],
+    "event_rules": ["PRO ENGINEER IS AN INDIVIDUAL EVENT."],
+    "prizes": "10000",
+    "contact": {
+      "name": "GOKUL ANIL",
+      "phone": "+918606555089",
+      "email": "gokul.anil0001@gmail.com"
+    }
+  },
+  { "id": "103",
+    "event_name": "YANTRIK",
+    "image": "../images/icons/production/Yaantrik.png",
+"color":"#3F51B5",
+    "category": "Production",
+    "introduction": "Got a positive vibe with the machines, be a yantrik. Here talent meets skill and ability.opportunity delivers fine professionals.",
+    "round": ["Objective test to check knowledge in material science and machine tool technology. 3 teams will be selected based on the score obtained in the exam", "Event will be conducted from 1PM to 4 PM. A production drawing will be provided to all the teams. You have to make the final object as per the drawing by using minimum machines. You will have lathes, slotting and shaping machines. Water/toilet facilities will be provided.Judging will be based on the speed, accuracy , finish."],
+    "event_rules": ["Inter College teams are allowed","Maximum of 2 participants per team","Participants should be prepared for machine tool operations.","Participants are not permitted to leave the hall until they finish the event."],
+    "prizes": "6000",
+    "contact": {
+      "name": "KISHOR KUMAR A",
+      "phone": "+919745082816",
+      "email": "kishoremailjobs@gmail.com"
+    }
+  },
+  { "id": "71",
+    "event_name": "CS 1.6 LIVE",
+    "image": "../images/icons/games/cs.png",
+"color":"#3F51B5",
+    "category": "Gaming",
+    "introduction": "Sharp Shooters are welcome ! Team of 4 play as terrorists and counter terrorists in a series of knock-out rounds. Last team standing wins the game.",
+    "round": ["", ""],
+    "event_rules": ["Version: Counter√¬≠Strike 1.6","Format: 4 vs 4 (4 members in a team) knockout match","You are allowed to bring your own keyboard, mouse or headphones","You are not supposed to bring configuration files. But you'll be given some time to configure your settings before the start of the match","Disallowed weapons: Terrorists : D3/AU√¬≠1, Krieg 552 Counter Terrorists : Krieg 550 Commando, Bullpup, Tactical Shield","Number of rounds increases as the tournament progresses. Teams switch sides at the halfway mark (Terrorists play as CTs and CTs become Terrorists)","In case of a tie, a knife round decides the winner","settings Start money √¬≠ $800 fadetoblack: On, Map time: 3.5 Minutes,C4 timer: 45 seconds,Freeze time: 5 seconds,Buy time: 30 seconds,Friendly Fire: On,Maps: de_dust2, de_infereno, de_train, de_nuke"],
+    "prizes": "6000",
+    "contact": {
+      "name": "JIJO ABRAHAM",
+      "phone": "+919496365493",
+      "email": "jijoabrahamvellimuttam@gmail.com"
+    }
+  },
+  { "id": "72",
+    "event_name": "FIFA 11",
+    "image": "../images/icons/games/FIFA.png",
+    "category": "Gaming",
+"color":"#4CAF50",
+    "introduction": "Battle it out with your colleagues in a series of knock out rounds to emerge the best in the business at FIFA !!",
+    "round": ["Each person is allowed to play a game in Legendary difficulty with a team of his/her choice against a team of 5 stars, selected between Real Madrid, Barcelona, Spain and Argentina. World XI and Classic XI teams are not allowed. The opponent is selected conducting a lucky draw. 16 persons with highest number of goals will enter the quarter-finals. If goals are same other features like possession, shot accuracy etc will be taken into account.", "The top 16 players will play one-on-one matches in a knockout contest and the last man standing wins the event."],
+    "event_rules": ["Open to all"],
+    "prizes": "6000",
+    "contact": {
+      "name": "KAMIL NAZAR",
+      "phone": "+919633075534",
+      "email": "kamilnazar.edk@gmail.com"
+    }
+  },
+  { "id": "73",
+    "event_name": "NFS MOST WANTED",
+    "image": "../images/icons/games/nfs.png",
+    "category": "Gaming",
+"color":"#8BC34A",
+    "introduction": "Reckless drivers join in!Drive your way to glory at the streets of NFS through a series of qualifying and knockout rounds.",
+    "round": ["Individual race.Best lap time wil be taken from 3 laps.Top 16 wil be selected", "The top 16 play one-on-one races in a knockout fashion and the last driver standing will win the event."],
+    "event_rules": ["Cheating in any form which include use of malicious software, cheat codes etc. will lead to disqualification.","Open to all."],
+    "prizes": "5000",
+    "contact": {
+      "name": "ARAVIND",
+      "phone": "+919400548080",
+      "email": "aravindu43@gmail.com"
+    }
+  },
+  { "id": "113",
+    "event_name": "ROBO-TREKKING",
+    "image": "../images/icons/robotics/Robotrekking.png",
+    "category": "Robotics",
+"color":"#FF9800",
+    "introduction": "King Jerry the Terrible has kidnapped the princess Diana in his top secret underground labyrinth filled with toxic gas. King Julius Dianas father has called out to his people to rescue his daughter from evil King Jerry and he has vowed to give the hand of the princess to whoever rescues her. The clock is ticking. First you have to save the princess then you make sure nobody steals her again. Objective: Build a robot that can pick a ball and drop it in a cup. To improve your chances to win robot should follow a line autonoumously. Robot Specifications: Robots must not exceed 25cmx25cm (length x breadth) with max +10% tolerance not including arm length. No height or weight restrictions.Robot may use any picking method to pick the ball.<br>Arena and Additional information : <a href='https://www.dropbox.com/s/662fufcb8rk4mu6/Robo.pdf?dl=0' target='_blank' style='text-decoration:none;'>Click Here</a>",
+    "round": ["Preliminary testing of the bot and specifications.Only robots that satisfy the specification will be allowed to participate. Maximum 10 minutes to complete the whole course.Robots start at any one of the two podiums. The robot must traverse the arena to pick a ball from some random point at the periphery of the arena. Then the ball must be dropped into the revolving cup at the centre from any one podium. If the robot successfully drops the ball into the cup then it moves to the next arena with 100 points. If it does not drop within 3 tries then the robot can skip the arena with negative 25 points. In the next arena the robot can traverse manually or autonomously.Any reset yields negative 10 points. 4 teams will be selected to the final round based on the points.", "In this round 2 teams will compete against each other in the first arena. Maximum of 5 minutes are allowed. More than one ball will be there. A dropped ball will again be placed in the arena. The team which drops the maximum number of balls in the cup wins. If there is a tie then sudden death round is conducted for 2 minutes."],
+    "event_rules": ["Before a round begins all participants must be present with their robots ready.","Robot must adhere to specification with a little tolerance, if it does not the robot may be disqualified.","The participants are not entitled to change the venue conditions to their liking.","Teams are allowed to re-program/change algorithms during the autonomous round but no extra time will be allowed.","Robots cannot jump between lines in autonomous zone of arena 2.If the arena is destroyed due to a robot the then that robot is immediately disqualified.","If the participant touches/picks the robot before it completes the run then it will be counted as a reset and negative points are awarded. "],
+    "prizes": "15000",
+    "contact": {
+      "name": "AKHIL VALSARAJ",
+      "phone": "+918714441731",
+      "email": "akhil0999@gmail.com"
+    }
+  },
+  { "id": "114",
+    "event_name": "ROVER",
+    "image": "../images/icons/robotics/rover.png",
+    "category": "Robotics",
+"color":"#673AB7",
+    "introduction": "Ever dreamt of a time machine which can take you to future for an expedition ?? This is where H.G. Well's imagination turns into reality... It's year 21XX!! The earth has staged a third world war. Life has touched a standstill... All that remains is a planet where survival is in itself a challenge. You are one among the group of scientist and engineers who are trying hard to find a habitable place. Want to prove your potential in this decisive situation, come show your guts? But make no mistake; this is going to be no walk in the park...Dyuthi'15 presents to you ROVER, an energy packed adventure competition where you race your wired/wireless, manually controlled robot on a track like no other. Prepare to compete on a treacherous and convoluted ALL TERRAIN Arena where it's truly the survival of the fittest!",
+    "round": ["Judging will be based on the minimum time.Each team will get three chances in which the first one is for trial run.So,best of the remaining two chances will be taken for final judgement."],
+    "event_rules": ["Inter College teams are allowed","Maximum of 3 participants per team.","There is no restriction to the number of teams participating from same educational institute.","An individual cannot be part of more than one team.","No team can use another team's robot or equipment."],
+    "prizes": "15000",
+    "contact": {
+      "name": "SHARIN RAJEEV",
+      "phone": "+919656594464",
+      "email": "sharinrajeev2@gmail.com"
+    }
+  },
+  { "id": "201",
+    "event_name": "RC RACING",
+    "image": "../images/icons/robotics/RC Racing.png",
+    "category": "Robotics",
+"color":"#9C27B0",
+    "introduction": "Ask any racer. Any real racer. It doesn't matter if you win by an inch or a mile. Winning's winning..",
+    "round": ["First round will be a knock out round, with 2 laps. Each driver's single best qualifying time is used to sort the field for finals.? The top 6 will qualify in the final. Be fast to grab your pole position", "Final round. Pure racing..!!"],
+    "event_rules": ["Any type of RC car kit or modified toy car can be used for race","WILD CARD ENTRY: self-made bots may be selected directly to the finals based on their performance, design and credibility by the judges.","The arena specifications may be subject to changes, and the final arena will be disclosed only at the time of the event","No abusive language toward marshalls or other drivers will be tolerated","No corner-cutting or short-cutting the track."],
+    "prizes": "8000",
+    "contact": {
+      "name": "SHARAFUDHEEN K Y",
+      "phone": "+919744151198",
+      "email": "26sharafu@gmail.com"
+    }
+  },
+  {
+    "event_name": "SIXTH SENSE BOTZ",
+"color":"#673AB7",
+    "Organizers": ["<p>Conducted by Ark Technosolutions</p><p><h4>14th and 15th February<h4></p> <p>Fees- INR 5000 for a team (of max. five participants including takeaway kit)</p><p>All the participants of a team should register individually</p>"],
+    "introduction": "Unlike conventional sensors like IR sensors, LDRs etc., this era has witnessed use of gestures and colors to dominate the robots. Welcome to the world of Sixth Sense Robotics or gesture controlled robotics! Participants will experience hands-on sessions in acquiring and processing images and videos in MATLAB, programming ATmega 8 microcontroller, interfacing actuators like DC motors, serial and parallel data communication in MATLAB etc.  Applications that will be taught to the participants will include Ball Following robot, Gesture controlled Mouse pointer etc. This workshop will be worthy for the participants from all departments.  Freshers are most welcome, as this will assist them to implement any of their innovative engineering ideas in real time.",
+    "Contents":"Introduction to vision based robots <p>Programming Atmega8 Microcontroller</p>Image and video - acquisition and processing using MATLAB</p> <p>Image processing- color spaces, color format conversion, showing and storing of images, thresholding, important functions of MATLAB used for color and edge detection</p><p> Sending serial and parallel data using MATLAB</p><p> Implementing Image Processing on the kit </p><p><h3>Kit Details-</h3> </p><p>ARDUINO Embedded circuit board , Micro Controller - ATMEL ATmega 8 , Operating Voltage - 5V , Input voltage - 6V-20V  Digital I/O pins - 14 out of which 6 provide PWM , Analog Input Pins - 8 , DC Current per I/O pin - 40mA. , Flash Memory - 16KB, SRAM - 1KB, EEPROM - 512Bytes, Clock Speed 16 MHz, USB-UART converter, Proper Indicator LEDs, USB/ EXT input voltage, 5V output supply pins - 3, 3.3 V output supply pins - 1, Breadboard Compatibility (dimension of a 40 pin DIP IC), Web-camera , 2 BO DC geared motors , 2 ABS polished wheels with metal couplings , Castor Wheels , Magic Chasis, Ball for Image Processing, USB type-A to type-B cable, Screw driver, Nuts, Screws and much more",
+    "Details": "<p>* Any individual can participate, as the whole content will be discussed from basics</p><p>* Each team will be provided with a take away kit </p><p>* Workshop fees include the training charges and the charge for SixthSense Botz mini lab kit (including ATmega8 development Board, Camera, etc)</p> <p>* Each team has to bring a laptop (Laptop charging points will be provided). </p><p>* All the software required will be shared online or during the workshop.</p> <p>* All the participants will be provided with certificates.</p> <p>* Participants can avail free accommodation in our campus (if required). </p>",
+    "contact": {
+      "name": "SARATH CHAND T P",
+      "phone": "+919846643326",
+      "email": "sarathchandtp@gmail.com"
+    }
+  },
+  {
+    "event_name": "EXPRESS AND RADIATE",
+"color":"#00BCD4",
+    "Organizers":["Conducted by ICT Academy Kerala <p><h4>17th February 2015</h4></p><p><h4>Fees- INR 100 per head</h4></p>"],
+    "introduction": "Engineering skills we accumulate at college can create an impact only if it is complemented with proper communication skills. Bearing this in mind Dyuthi is proud to present a workshop to enhance your communication skills to boost your public speaking abilities. Being the future Engineers of tomorrow it is vital that we have the ability to communicate and reach out to the people in the society. This workshop shall be a perfect platform for you to develop your leadership skills, learn more about how to communicate effectively among a group and how to make yourselves presentable to people.",
+    "Contents": "<p><h3 style='font-size: 1.3em;'>Presentation skill</h3></p><p>* How to make impactful presentation</p><p>* Structuring  presentation</p><p>* Use of effective gestures in presentation</p><p>* Logical development of presentaion</p><p>* Effective use of aids in presentaion</p><p><h3 style='font-size: 1.3em;'>Communication Skills</h3></p><p>* Art and type of communication</p><p>* Techniques on effective articulation</p><p>* Barriers and tools for communication</p><p>* Influencing through communication</p><p>* Electronic communication</p>",
+    "Details": "",
+    "contact": {
+      "name": "AMAL RAJ",
+      "email": "amalvsraj@gmail.com",
+      "phone": "+918943472471"
+    }
+  },
+  {
+    "event_name": "BRIDGE DESIGN, FABRICATION AND TESTING",
+    "Organizers":["Conducted by Civil Simplified <h4>14th & 15th February 2015</h4><p><h4>Fee- INR 1000 per head</h4> "],
+    "introduction": "This workshop is designed to take the participants through the technical concepts involved in Civil Engineering. It gives you a unique opportunity to experience a hands-on feel of a Civil Engineering project. Sessions will include introduction of basic concept involved in design of bridge, hands-on practical session on CAD based bridge design fabrication and testing, Bridge design contest using balsa wood and testing for the maximum load taken to measure maximum efficiency etc.",
+    "Contents":"<p>* Introduction to Different Types of bridges existing.</p><p>* The basic concept involved in designing of different bridges.</p><p>* Case studies for better understanding of Bridge Design concepts</p><p>* Designing and analyzing the bridge using CAD model </p><p>* Load calculations in various trusses using CAD model<p><p>* Fabrication of their respective bridge using balsa wood and testing for the maximum load taken to measure efficiency</p>* Bridge design issues arising during practical sessions, group discussions and presentations ",
+    "Details": "<p>* This workshop will be more relevant to students of Dept. Of Civil Engineering</p><p>* All the participants are required to bring a laptop. </p><p>* All the necessary softwares will be shared by us. </p><p>* All the participants will be provided with reference materials and Certificates Participants can avail free accommodation in our campus (if required). </p><p>* Winners will be shortlisted for the Bridge Design Challenge Finals at TechneX15, IIT BHU </p>",
+    "contact": {
+      "name": "USMAN ARSHAD P J",
+      "email": "usmanars1@gmail.com",
+      "phone": "+918891106353"
+    }
+  },
+  {
+    "event_name": "PCB MAKING",
+    "Organizers":["Conducted by Grey Technolabs <h4>9th and 10th February 2015</h4><p><h4>Fees- INR 450 for IEEE members <p>INR 550 for non-IEEE members</p></h4></p>"],
+    "introduction": "Printed Circuit Boards (PCB), the most essential component in almost all electronic circuits are very common in our projects. Here Dyuthi √15 presents a two day hands-on training program on PCB Designing and Etching. It gives a good learning experience with PCB design basics, selection of components, schematic design, layout design, common practices in PCB design, PCB soldering, fabrication methods etc. It is open to all students those are interested to know about electronic circuits and circuit printing.",
+    "Contents":"<p>* Familiarization of Eagle Lite Software</p><p>* Schematic design</p> <p>* Introduction to layout tools </p><p>* Auto routing & manual routing </p><p>* Printing layout design to file </p><p>* Netlist, Bill of Materials, Annotations</p> <p>* Gerber Creation </p><p>* Etching Practice </p><p>* Soldering Practice</p>",
+    "Details": "<p>* Participants are required to bring a Laptop and Pendrive.</p><p>* All the necessary softwares will be shared by us.</p><p>* All the participants will be provided with Certificates. </p><p>* Participants can avail free accommodation in our campus (if required)</p><p>* Duration two days</p> ",
+    "contact": {
+      "name": "SARATH CHAND T P",
+      "email": "sarathchandtp@gmail.com",
+      "phone": "+919846643326"
+    }
+  },
+  {
+    "event_name": "SOCIAL MEDIA ATTACKS AND SECURITY ISSUES",
+    "Organizers": ["Conducted by i3Indya Technologies <p><h4>7th & 8th February 2015</h4></p> <p><h4>Fees- INR 800 per head</h4></p>"],
+    "introduction": "Here we zoom into the world of servers, cookies, malware, data forensic, data recovery, data mirroring and Ethical Hacking. This workshop will acquaint you with various security cases and issues prevailing in various social medias like Facebook, Twitter, Whatsapp etc. The sessions will consist of fine-technical details on 'How do they do it' right from ground zero. So participants from all branches (freshers and seniors) are most welcome. It will be followed by live demonstrations of hacking practices. Comprehensive course materials, Ethical Hacking Toolkit and the knowledge gained from here, will be your future guides, especially through your projects.",
+    "Contents":"<p>* Introduction to Social Media (Facebook, Twitter, etc)</p><p>* Social Media Information Gathering Techniques and security</p><p>* Security Issues of Social Media (Facebook, Twitter, etc) </p><p>* Common Social Media (Facebook, Twitter, etc) Cyber Cases </p><p>* Social Media (Facebook, Twitter, etc) attack techniques and security</p><p>* Social Media Password stealing attacks and security </p><p>* Social Media Password Cracking with the help of Social Engineering and security</p> <p>* Social Media Hacking with with malware and security </p><p>* Social Media Data Forensic and Data Recovery and Security</p> <p>* Social Media (Facebook, Twitter,etc.) Tracking Methods </p><p>* Social Media Profile Data Monitoring and Mirroring </p><p>* Analyzing fake & real profile of Social Media</p>",
+    "Details": "<p>* Any individual can participate.</p> <p>* All the participants are advised to bring their internet enabled smart-phones to practice hands-on sessions. </p><p>* All the necessary softwares will be shared either online or during the workshop itself. </p><p>* All participants will be provided with Study Materials, Ethical Hacking Toolkit and Certificates. </p><p>* Participants can avail free accommodation in our campus (if required).</p>",
+    "contact": {
+      "name": "GOUTHAM KRISHNA M R",
+      "email": "gouthamkrishna@live.com",
+      "phone": "+918891891237"
+    }
+  },
+  {
+    "event_name": "PROVOCARE",
+    "image": "../images/icons/general/provocare.png",
+    "category": "General",
+"color":"#009688",
+    "introduction": "Provides a platform for the students to conceptualize their research instincts in various areas of technology.</br>THEME Technology for humanitarian development.</br>Topics </br>A). ECO-ENGINEERING </br> 01. green manufacturing 02. bio battery 03. water resource and waste management 04. sustainability in building design and construction </br>B). MANUFACTURING, SIMULATIONS AND CONTROLLING SYSTEMS </br>01. aerodynamics 02. nano technology 03. polymer electronics 04. modelling and simulations of systems 05. active electrically controlled suspension 06. advanced cooling systems 07. mems, nano materials and technology 08. advanced battery and fuel cell development for ev 09. micro heat exchangers 10. mechanical design 11. advanced propulsion methods 12. infrared thermography </BR>C). INFORMATICS AND COMMUNICATIONS</br> 01. embedded systems 02. electrooculography 03. inter vehicle communication 04. bio informatics and bio mechanics 05. digital image processing 06. digital signal processing, vlsi 07. artificial intelligence and expert systems 08. grid computing 09. intelligent electrical systems 10. wireless charging 11. information & network security 12. power electronics and solid state devices 13. wireless communication 14. optical satellite communication 15. carbon nanotubes flow sensors 16. robotics ",
+    "round":["</br>PAPER FORMAT <p> Abstract: 500 words (maximum).* Full Paper: Up to 6 pages including Graphs, Illustrations, etc </p></br>FORMAT <p>Single column with single line spacing in A4 size page. * Content of the paper in MS-Word with 12 Font Size (Times New Roman)* Title - Bold, Upper-case in 13 Font Size (Times New Roman) followed by the Author's names and affiliations in 10 Font Size (Times New Roman) in Lower-case.* Please indicate your paper code on the right top of the paper in Bold Upper-case.</p>"],
+    "event_rules": ["A maximum of 2 students per team is allowed","The participants must not deviate to any topic other than those listed above","Presentations should be in Power point presentation (Microsoft Office 2003 / 2007).","For the presentation a LCD projector, a computer and a mike will be provided.","The short listed participants who are eligible to present their paper will be intimated through mail","The selected entries will be informed via e-mail and they would have to send replies confirming their   Presentation","time will be 15 min and question/answer session will be 5 min","The participants should bring their presentation on CD/USB drive along with 2 hard copies for the judges.","Participation certificate and cash prizes will be awarded to the short listed participants.","Submission Rules : In the mail to be sent, name file should be the title of your paper","Subject of the mail to be sent should follow the format:[ Paper  Paper Code - Title]","The name of the document should be The Title of the Paper","Papers only in the prescribed format will be passed to the first level screening","An Email will be sent confirming the selection of the paper","All papers should be mailed to provocare@dyuthi.in on or before last date","The decision of the judges shall be treated as final and binding on all.","The organisers reserve the rights to change any or all the above rules as they deem fit","Any change in the rules, if any will be highlighted on the website and notified to the registered participants."],
+    "prizes": "10000",
+    "contact": {
+      "name": "SREELAXMI CH",
+      "phone": "+919656721187",
+      "email": "provocare@dyuthi.in"
+    }
+  },
+  {
+    "event_name": "ENIGMA",
+    "image": "../images/icons/cultural/enigma.png",
+"color":"#4CAF50",
+    "category": "Cultural",
+    "introduction": "Music is the soul of the universe and gives wings to the mind. To some it may be therapy or just a pastime.To others it's the sheer passion that drives them everyday.They thrive on the beats like blood through their veins.Drown out all the noise and prove your mettle.Hit the right notes to win this battle!",
+    "round": ["Single Round.You will be given 15 minutes to perform and 3 minutes to prepare"],
+    "event_rules": ["10 participants per team","Time limit 15mins+3mins set up time","No spot registration"," Band members need not be college going students since the competition is open and age limit is 25","Teams are permitted to perform in the language of their choice(Only indian languages)","Only Piano patch in the keyboard is permitted","No processors/effects pedals are permitted","A 5 piece drum kit with cymbals will be provided by dyuthi team","Team manager is requested to be present near the sound engineer's desk to ensure proper sound levelling","Same person cannot be part of two teams","All music should be played live on stage(No acapella)","No electric instruments are permitted apart from bass and electric guitar(clean)","All Participants should necessarily bring any Authorised  ID card along with them(Eg;License,voters Id, pan card etc)"],
+    "prizes": "30000",
+    "contact": {
+      "name": "ASWIN VARMA",
+      "phone": "+918089137652",
+      "email": "aswinvarmak123@gmail.com"
+    }
+  },
+  {
+    "event_name": "PLAY ALONG",
+    "image": "../images/icons/coding/playalong.png",
+"color":"#CDDC39",
+    "category": "Coding",
+    "introduction": "Does the terms Gaming and Programming brings curiosity for you?  Ever thought of writing a piece of code which could play the game for you? Come forward and take your chances with ?Play Along? where the pieces of codes amalgamate together.. Replace the keyboard controls with the Ninja Programmer inside you and the throne shall be claimed.",
+    "round": ["Written test based on concepts of Programming Game theory and Automation. Will select only 7 teams. Duration of test ? 30 mins. Test will be followed by a small training session to introduce idea to participants. ", "For final round, a game scenario will be provided and along with a sample controller code to play the game. Contestants are required to enhance the controller to the best extend to ace the given set of tasks. Curious about the game...It will be a surprise Internet will be provided during the final round.Contestants are allowed to browse and reuse the code according to ones interest."],
+    "event_rules": ["Team event comprising of 3 members per team.","Inter College teams are allowed","Communication devices are not allowed"],
+    "prizes": "7000",
+    "contact": {
+      "name": "Albince Paliakkara",
+      "phone": "+918547550700",
+      "email": "albince.pa@gmail.com"
+    }
+  }
+]

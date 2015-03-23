@@ -1,0 +1,9 @@
+<div id="tile-wrapper">
+  <a class="back-btn" ng-href="#/"><img ng-src="../images/back.svg"></a>
+  <ul class="title" style="background-color:{{ colortiltle }};">
+    <li>Workshop</li>
+  </ul>
+  <ul ng-repeat="row in category">
+    <li ng-repeat="item in row" style="background-color:{{ item.color }};">{{ item.cat }}</li>
+  </ul>
+</div>
